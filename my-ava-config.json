@@ -1,0 +1,6 @@
+{
+  "domains": {
+    "servicesApi": "https://services.avaapiweb.com/api/"
+  },
+  "DefaultLanguage":"ru"
+}
